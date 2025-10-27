@@ -3,4 +3,8 @@
 	url = https://github.com/foundry-rs/forge-std
 [submodule "lib/openzeppelin-contracts"]
 	path = lib/openzeppelin-contracts
+<<<<<<< HEAD
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+=======
+	url = https://github.com/openzeppelin/openzeppelin-contracts
+>>>>>>> e75f89a (Initial commit: added contracts, tests, and scripts)
